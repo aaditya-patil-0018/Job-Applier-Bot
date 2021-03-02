@@ -924,3 +924,615 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1614548510561	geckodriver	INFO	Listening on 127.0.0.1:59973
+1614548510567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7yTIJh"
+
+(firefox:18160): Gtk-WARNING **: 03:11:52.269: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:18160): Gtk-WARNING **: 03:11:52.269: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614548516154	Marionette	INFO	Listening on port 37485
+1614548516267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614548588403	Marionette	INFO	Stopped listening on port 37485
+1614581996258	geckodriver	INFO	Listening on 127.0.0.1:45095
+1614581997232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOCxqJF"
+
+(firefox:18001): Gtk-WARNING **: 12:29:58.937: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:18001): Gtk-WARNING **: 12:29:58.937: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614582002985	Marionette	INFO	Listening on port 41761
+1614582003263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1614582334146	Marionette	INFO	Stopped listening on port 41761
+1614608193785	geckodriver	INFO	Listening on 127.0.0.1:41771
+1614608194759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYk7jkw"
+
+(firefox:8701): Gtk-WARNING **: 19:46:41.311: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:8701): Gtk-WARNING **: 19:46:41.311: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608209190	Marionette	INFO	Listening on port 37635
+1614608209410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:54.932: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:54.932: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:54.932: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:54.933: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:54.933: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:55.124: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:47:55.441: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-WARNING **: 19:48:12.419: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f60b1375050' of type 'MaiAtkType139'
+
+(firefox:8701): GLib-GObject-WARNING **: 19:48:12.419: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f60b1375ad0' of type 'MaiAtkType139'
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:48:13.633: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:48:13.781: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8701): GLib-GObject-CRITICAL **: 19:48:17.941: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 101: TypeError: this.inspector is null
+1614608354827	geckodriver	INFO	Listening on 127.0.0.1:55399
+1614608355804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4mEbhi"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614608358028	Marionette	INFO	Stopped listening on port 37635
+
+(firefox:9021): Gtk-WARNING **: 19:49:20.675: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:9021): Gtk-WARNING **: 19:49:20.676: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608365740	Marionette	INFO	Listening on port 44787
+1614608365882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614608428231	Marionette	INFO	Stopped listening on port 44787
+1614608430834	geckodriver	INFO	Listening on 127.0.0.1:45379
+1614608430841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletJnI9k"
+
+(firefox:9282): Gtk-WARNING **: 19:50:32.442: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:9282): Gtk-WARNING **: 19:50:32.443: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608436399	Marionette	INFO	Listening on port 46325
+1614608436516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614608536432	Marionette	INFO	Stopped listening on port 46325
+1614608747756	geckodriver	INFO	Listening on 127.0.0.1:34727
+1614608747763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev7THRL"
+
+(firefox:9645): Gtk-WARNING **: 19:55:49.306: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:9645): Gtk-WARNING **: 19:55:49.306: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608752991	Marionette	INFO	Listening on port 41777
+1614608753110	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614608797078	Marionette	INFO	Stopped listening on port 41777
+1614608847145	geckodriver	INFO	Listening on 127.0.0.1:35637
+1614608847173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMAZn2r"
+
+(firefox:9898): Gtk-WARNING **: 19:57:28.689: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:9898): Gtk-WARNING **: 19:57:28.690: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608852520	Marionette	INFO	Listening on port 42163
+1614608852718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614608905288	geckodriver	INFO	Listening on 127.0.0.1:36807
+1614608905294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewVVUPW"
+
+(firefox:10119): Gtk-WARNING **: 19:58:27.050: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:10119): Gtk-WARNING **: 19:58:27.050: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608912910	Marionette	INFO	Listening on port 46827
+1614608913009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614608915619	Marionette	INFO	Stopped listening on port 42163
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614608973184	Marionette	INFO	Stopped listening on port 46827
+1614608977472	geckodriver	INFO	Listening on 127.0.0.1:37695
+1614608977479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHumsc7"
+
+(firefox:10378): Gtk-WARNING **: 19:59:38.944: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:10378): Gtk-WARNING **: 19:59:38.944: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614608982910	Marionette	INFO	Listening on port 35627
+1614608983039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614609087827	Marionette	INFO	Stopped listening on port 35627
+1614609395510	geckodriver	INFO	Listening on 127.0.0.1:47115
+1614609395517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTWcs7"
+
+(firefox:10787): Gtk-WARNING **: 20:06:36.980: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:10787): Gtk-WARNING **: 20:06:36.980: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609402514	Marionette	INFO	Listening on port 44311
+1614609402634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614609475085	Marionette	INFO	Stopped listening on port 44311
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614609684307	geckodriver	INFO	Listening on 127.0.0.1:53675
+1614609684313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8Q7Z5F"
+
+(firefox:11085): Gtk-WARNING **: 20:11:26.034: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:11085): Gtk-WARNING **: 20:11:26.034: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609690128	Marionette	INFO	Listening on port 41505
+1614609690196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614609737077	geckodriver	INFO	Listening on 127.0.0.1:36007
+1614609737084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWOC2t"
+
+(firefox:11315): Gtk-WARNING **: 20:12:19.056: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:11315): Gtk-WARNING **: 20:12:19.056: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+1614609740718	Marionette	INFO	Stopped listening on port 41505
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609744089	Marionette	INFO	Listening on port 39153
+1614609744150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614609812306	Marionette	INFO	Stopped listening on port 39153
+1614609817088	geckodriver	INFO	Listening on 127.0.0.1:41733
+1614609817095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0RwL1L"
+
+(firefox:11558): Gtk-WARNING **: 20:13:38.628: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:11558): Gtk-WARNING **: 20:13:38.629: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609822577	Marionette	INFO	Listening on port 33581
+1614609822651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614609893041	geckodriver	INFO	Listening on 127.0.0.1:41591
+1614609893049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTfXGL"
+
+(firefox:11777): Gtk-WARNING **: 20:14:55.818: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:11777): Gtk-WARNING **: 20:14:55.818: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609902579	Marionette	INFO	Listening on port 45373
+1614609902661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614609904294	Marionette	INFO	Stopped listening on port 33581
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614609977870	Marionette	INFO	Stopped listening on port 45373
+1614609984302	geckodriver	INFO	Listening on 127.0.0.1:33981
+1614609984309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCwxfVS"
+
+(firefox:12023): Gtk-WARNING **: 20:16:25.879: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:12023): Gtk-WARNING **: 20:16:25.880: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614609989643	Marionette	INFO	Listening on port 37223
+1614609989765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614610051051	geckodriver	INFO	Listening on 127.0.0.1:55045
+1614610051058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePS1pU9"
+
+(firefox:12261): Gtk-WARNING **: 20:17:33.430: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:12261): Gtk-WARNING **: 20:17:33.430: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610056649	Marionette	INFO	Stopped listening on port 37223
+1614610057716	Marionette	INFO	Listening on port 42223
+1614610057821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614610108708	Marionette	INFO	Stopped listening on port 42223
+1614610222659	geckodriver	INFO	Listening on 127.0.0.1:58451
+1614610222670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUTToa2"
+
+(firefox:12572): Gtk-WARNING **: 20:20:24.253: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:12572): Gtk-WARNING **: 20:20:24.253: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610228666	Marionette	INFO	Listening on port 33949
+1614610228748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614610316908	geckodriver	INFO	Listening on 127.0.0.1:48123
+1614610316915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled6Zm1T"
+
+(firefox:12804): Gtk-WARNING **: 20:21:58.436: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:12804): Gtk-WARNING **: 20:21:58.437: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610323589	Marionette	INFO	Listening on port 34389
+1614610323713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614610326088	Marionette	INFO	Stopped listening on port 33949
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614610402462	Marionette	INFO	Stopped listening on port 34389
+1614610406134	geckodriver	INFO	Listening on 127.0.0.1:40569
+1614610406174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezrld24"
+
+(firefox:13053): Gtk-WARNING **: 20:23:28.030: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:13053): Gtk-WARNING **: 20:23:28.031: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610411896	Marionette	INFO	Listening on port 36283
+1614610411975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614610477065	Marionette	INFO	Stopped listening on port 36283
+1614610479077	geckodriver	INFO	Listening on 127.0.0.1:52249
+1614610479084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecIDx4Y"
+
+(firefox:13302): Gtk-WARNING **: 20:24:40.642: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:13302): Gtk-WARNING **: 20:24:40.642: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610484378	Marionette	INFO	Listening on port 33811
+1614610484448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614610555802	Marionette	INFO	Stopped listening on port 33811
+1614610559893	geckodriver	INFO	Listening on 127.0.0.1:32959
+1614610559900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVa47BE"
+
+(firefox:13531): Gtk-WARNING **: 20:26:01.361: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:13531): Gtk-WARNING **: 20:26:01.362: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610565524	Marionette	INFO	Listening on port 36311
+1614610565828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614610706143	geckodriver	INFO	Listening on 127.0.0.1:39237
+1614610706150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley7gOMd"
+
+(firefox:13766): Gtk-WARNING **: 20:28:27.639: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:13766): Gtk-WARNING **: 20:28:27.639: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614610711650	Marionette	INFO	Listening on port 44311
+1614610711701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://my.indeed.com/static/versionized/861fa0b34e0a3e55a0ec/js/webpack-wizard.js, line 1: TypeError: e.getWrappedInstance is not a function
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614610798772	Marionette	INFO	Stopped listening on port 44311
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614612191372	Marionette	INFO	Stopped listening on port 36311
+1614657740141	geckodriver	INFO	Listening on 127.0.0.1:54105
+1614657741114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledE8XN4"
+
+(firefox:3888): Gtk-WARNING **: 09:32:27.973: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:3888): Gtk-WARNING **: 09:32:27.973: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614657757325	Marionette	INFO	Listening on port 39431
+1614657757619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614657867682	geckodriver	INFO	Listening on 127.0.0.1:33935
+1614657867731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuwJjfl"
+
+(firefox:4184): Gtk-WARNING **: 09:34:30.157: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:4184): Gtk-WARNING **: 09:34:30.157: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614657883203	Marionette	INFO	Stopped listening on port 39431
+1614657889267	geckodriver	INFO	Listening on 127.0.0.1:52857
+1614657889288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ82lrd"
+
+(firefox:4386): Gtk-WARNING **: 09:34:50.829: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:4386): Gtk-WARNING **: 09:34:50.829: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614657894998	Marionette	INFO	Listening on port 46875
+1614657895034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614658026304	Marionette	INFO	Stopped listening on port 46875
+1614658118382	geckodriver	INFO	Listening on 127.0.0.1:39331
+1614658118388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemaSQN5"
+
+(firefox:4699): Gtk-WARNING **: 09:38:39.991: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:4699): Gtk-WARNING **: 09:38:39.991: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614658124024	Marionette	INFO	Listening on port 43197
+1614658124148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614658149843	Marionette	INFO	Stopped listening on port 43197
+1614658376458	geckodriver	INFO	Listening on 127.0.0.1:33737
+1614658376465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTR9dGj"
+
+(firefox:5006): Gtk-WARNING **: 09:42:58.154: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:5006): Gtk-WARNING **: 09:42:58.155: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614658382191	Marionette	INFO	Listening on port 38111
+1614658382322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614658412021	Marionette	INFO	Stopped listening on port 38111
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614658577972	geckodriver	INFO	Listening on 127.0.0.1:54773
+1614658577980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegth1p6"
+
+(firefox:5529): Gtk-WARNING **: 09:46:19.578: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:5529): Gtk-WARNING **: 09:46:19.578: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614658583595	Marionette	INFO	Listening on port 43231
+1614658583743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614658699014	Marionette	INFO	Stopped listening on port 43231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1614658737224	geckodriver	INFO	Listening on 127.0.0.1:56065
+1614658737231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBPHbY"
+
+(firefox:5819): Gtk-WARNING **: 09:48:58.839: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:5819): Gtk-WARNING **: 09:48:58.839: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614658742724	Marionette	INFO	Listening on port 39013
+1614658742847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614658764272	Marionette	INFO	Stopped listening on port 39013
+1614659079715	geckodriver	INFO	Listening on 127.0.0.1:34839
+1614659079722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ7QG6B"
+
+(firefox:6134): Gtk-WARNING **: 09:54:41.439: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:6134): Gtk-WARNING **: 09:54:41.440: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614659084948	Marionette	INFO	Listening on port 40055
+1614659085133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614659128887	Marionette	INFO	Stopped listening on port 40055
+1614659174219	geckodriver	INFO	Listening on 127.0.0.1:38555
+1614659174226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTBkR1b"
+
+(firefox:6445): Gtk-WARNING **: 09:56:15.897: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:6445): Gtk-WARNING **: 09:56:15.897: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614659181968	Marionette	INFO	Listening on port 35401
+1614659182081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614659318709	Marionette	INFO	Stopped listening on port 35401
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614659518801	geckodriver	INFO	Listening on 127.0.0.1:41579
+1614659518810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegqS1I3"
+
+(firefox:7145): Gtk-WARNING **: 10:02:00.370: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:7145): Gtk-WARNING **: 10:02:00.371: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614659524537	Marionette	INFO	Listening on port 37907
+1614659524675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://my.indeed.com/static/versionized/c76c2a8f48f98449bbe7/js/webpack-wizard.js, line 1: TypeError: e.getWrappedInstance is not a function
+JavaScript error: https://my.indeed.com/static/versionized/c76c2a8f48f98449bbe7/js/webpack-wizard.js, line 1: Error: Missing required option 'country'.
+JavaScript error: https://my.indeed.com/static/versionized/c76c2a8f48f98449bbe7/js/webpack-wizard.js, line 1: Error: Missing required option 'country'.
+JavaScript error: https://my.indeed.com/static/versionized/c76c2a8f48f98449bbe7/js/webpack-wizard.js, line 1: Error: Missing required option 'country'.
+JavaScript error: https://my.indeed.com/static/versionized/c76c2a8f48f98449bbe7/js/webpack-wizard.js, line 1: Error: Missing required option 'country'.
+JavaScript error: https://my.indeed.com/static/versionized/c76c2a8f48f98449bbe7/js/webpack-wizard.js, line 1: Error: Missing required option 'country'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://my.indeed.com/static/versionized/49c28c82aa08adf1a0f1/js/common.js, line 1: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614660379145	Marionette	INFO	Stopped listening on port 37907
+1614661193467	geckodriver	INFO	Listening on 127.0.0.1:50715
+1614661193476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileijaZVy"
+
+(firefox:7811): Gtk-WARNING **: 10:29:55.263: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:7811): Gtk-WARNING **: 10:29:55.263: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614661199932	Marionette	INFO	Listening on port 39165
+1614661200046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614661286103	Marionette	INFO	Stopped listening on port 39165
+1614661322072	geckodriver	INFO	Listening on 127.0.0.1:53425
+1614661322081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8cosC6"
+
+(firefox:8066): Gtk-WARNING **: 10:32:04.028: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:8066): Gtk-WARNING **: 10:32:04.045: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614661328256	Marionette	INFO	Listening on port 43533
+1614661328342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614661382062	Marionette	INFO	Stopped listening on port 43533
+1614661416877	geckodriver	INFO	Listening on 127.0.0.1:34987
+1614661416886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemMS9xd"
+
+(firefox:8302): Gtk-WARNING **: 10:33:38.373: Theme directory devices/symbolic of theme MacOS-3D-Light has no size field
+
+
+(firefox:8302): Gtk-WARNING **: 10:33:38.373: Theme directory emblems/symbolic of theme MacOS-3D-Light has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614661422520	Marionette	INFO	Listening on port 35955
+1614661422637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1614661513064	Marionette	INFO	Stopped listening on port 35955
